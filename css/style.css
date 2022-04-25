@@ -111,6 +111,12 @@ iframe {
     display: block;
 }
 
+.kilder {
+    position: absolute;
+    z-index: 20;
+    height: 100px;
+}
+
 @keyframes RightToLeft {
     0% {
         right: -100%;
